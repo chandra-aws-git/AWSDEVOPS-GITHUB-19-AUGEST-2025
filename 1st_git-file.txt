@@ -1,0 +1,2 @@
+This is my first git file in local git repositary.
+This is the second line added in same file
