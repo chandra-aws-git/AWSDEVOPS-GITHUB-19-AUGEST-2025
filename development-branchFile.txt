@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is development branch file
+=======
+This is development branch file
+>>>>>>> 15090108bffa2d36df4f03e2f678d0e9e3b28641
